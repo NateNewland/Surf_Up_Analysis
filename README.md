@@ -17,10 +17,10 @@ In this project we explore the power of Advanced data storage and retieval to ma
 
 * The average recorded temperature in June is about 75 degrees F, 4 degrees higher than the average temp in December.
   * This represents a -5% change in average temperature from June to December
-  * 
-*The frequency of temperatures recorded in June tends to have a much more normal, tight bell curve distribution, cooroborated by the smaller std measure of June temps vs December temps
 
-*The December temperatures seem to be more variable than those in June given its larger range in recorded temperatures (comparing the max vs min temp of each month)
+* The frequency of temperatures recorded in June tends to have a much more normal, tight bell curve distribution, cooroborated by the smaller std measure of June temps vs December temps
+
+* The December temperatures seem to be more variable than those in June given its larger range in recorded temperatures (comparing the max vs min temp of each month)
   * However, when looking at the plotted distribution of Dec Temps, we can see that the median temperature in Dec is more inline with the average, and there are not many outliers skuing the average temperature higher or lower than the actual recorded frequency.
 ### My Findings
 I have found that eventhough the temperature in December seem to be varying more than June's December would still provide great weather for both surfing and ice cream. Average temperatures only vary by 4 degrees. I'm confident in this desicion because December's median temperature, with the highest frequency recorded across a span of years, is about 72 degrees, at least double the frequency of the next highest recorded temperatures, 75 and 67 respectively. It would be ill advised to not open the surf and ice cream shop based on at first clance temperature minimums.
