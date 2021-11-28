@@ -17,7 +17,9 @@ In this project we explore the power of Advanced data storage and retieval to ma
 
 * The average recorded temperature in June is about 75 degrees F, 4 degrees higher than the average temp in December.
   * This represents a -5% change in average temperature from June to December
+  * 
 *The frequency of temperatures recorded in June tends to have a much more normal, tight bell curve distribution, cooroborated by the smaller std measure of June temps vs December temps
+
 *The December temperatures seem to be more variable than those in June given its larger range in recorded temperatures (comparing the max vs min temp of each month)
   * However, when looking at the plotted distribution of Dec Temps, we can see that the median temperature in Dec is more inline with the average, and there are not many outliers skuing the average temperature higher or lower than the actual recorded frequency.
 ### My Findings
